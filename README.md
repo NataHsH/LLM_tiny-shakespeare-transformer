@@ -32,7 +32,7 @@ It includes full pipeline setup: data loading, tokenization, model training, eva
 | Number of layers | 4      |
 | Dropout          | 0.1    |
 | Learning rate    | 3e-4   |
-| Epochs           | 3–5    |
+| Epochs           | 5      |
 
 ## Training
 
